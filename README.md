@@ -70,9 +70,3 @@ While this system doesn't replace human composers, it offers powerful tools for 
 - Deploy as a web or mobile app for real-time generation.
 
 ---
-
-## 🙋‍♂️ Developed By
-
-**[Your Name]**  
-B.Tech CSE (AI)  
-Under the guidance of **Prof. [Your Professor's Name]**
